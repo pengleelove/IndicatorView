@@ -1,6 +1,6 @@
 # IndicatorView
 
-![gif image](https://github.com/pengleelove/IndicatorView/IndicatorView/动画.gif)
+![gif image](https://github.com/pengleelove/IndicatorView/动画.gif)
 
 ##  使用方法
 
